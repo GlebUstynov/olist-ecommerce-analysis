@@ -2,3 +2,8 @@
 __pycache__/
 .venv/
 venv/
+
+week4OLIST/input/
+week4OLIST/output/
+week4OLIST/pipeline_output/
+week4OLIST/april_output/
